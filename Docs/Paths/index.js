@@ -1,4 +1,4 @@
-const account = require('./account')
+const account = require('./Account')
 
 module.exports = {
   'paths':{
