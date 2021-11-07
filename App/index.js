@@ -26,7 +26,7 @@ async function start() {
 
   // Setting up View Engine For root
   app.set('view engine', 'ejs')
-  app.set('views', './views')
+  app.set('views', './Views')
 
   // for parsing application/json
   app.use(express.json('*/*'));
