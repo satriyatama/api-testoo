@@ -6,7 +6,7 @@ module.exports = {
       url: `http://localhost:${config.app.port}`,
     },
     {
-      url: 'https://api-testoo-mengajar.herokuapp.com'
+      url: 'https://api-testoo.herokuapp.com'
     }
   ]
 }
